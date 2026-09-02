@@ -16,13 +16,20 @@ The major objectives of this project are to:
 
 * Identify high-performing and low-performing products.
 
-Compare sales and profit across different regions.
+* Compare sales and profit across different regions.
 
-Understand customer segment performance.
+* Understand customer segment performance.
 
-Analyze category and sub-category contribution.
+* Analyze category and sub-category contribution.
 
-Evaluate shipping methods and their impact on orders.
-Track order quantity and sales trends over time.
-Analyze returns and payment-related information.
-Build an interactive dashboard for quick business decision-making.
+* Evaluate shipping methods and their impact on orders.
+  
+* Track order quantity and sales trends over time.
+  
+* Analyze returns and payment-related information.
+  
+* Build an interactive dashboard for quick business decision-making.
+
+
+
+
