@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Superstore sales" src="https://github.com/user-attachments/assets/07049acb-5909-48ca-8edf-4dc6c152c888" /># SuperStore-Sales-Dashboard
+# SuperStore-Sales-Dashboard
 
 📌 **Project Overview**
 
@@ -120,7 +120,7 @@ These insights can support data-driven decision-making in areas such as sales st
 * Data Cleaning
 * Data Visualization.
 
-![Uploading image.png…]()
+<img width="1536" height="1024" alt="Superstore sales" src="https://github.com/user-attachments/assets/07049acb-5909-48ca-8edf-4dc6c152c888" />
 
 
 
