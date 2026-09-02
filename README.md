@@ -30,6 +30,20 @@ The major objectives of this project are to:
   
 * Build an interactive dashboard for quick business decision-making.
 
+📈 **Dashboard Features**
+
+The dashboard provides a consolidated view of important business performance indicators.
+
+🔹 **Key Performance Indicators (KPIs)**
+
+The dashboard highlights major metrics such as:
+
+* Total Sales
+* Total Profit
+* Total Quantity
+* Total Orders
+* Customer Performance
+* Returns / Return Rate
 
 
 
